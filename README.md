@@ -75,7 +75,7 @@ This repository reflects an **active development portfolio project** demonstrati
 #  How to Run Locally
 
 ## 1. Clone repository
-```bash
+
 git clone https://github.com/YOUR-USERNAME/ai-email-insights.git
 cd ai-email-insights
 
