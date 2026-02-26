@@ -1,0 +1,6 @@
+email_id,received_at,sender,subject,body
+1,2026-02-10 08:12:00,customer1@example.com,Ferry delay complaint,"Hi, the 8:00 sailing was delayed again. I missed my appointment. Please explain what happened and how you will prevent this going forward."
+2,2026-02-10 09:45:00,ops.team@example.com,Incident report - minor vehicle damage,"During loading, a vehicle mirror was damaged. No injuries. Please log the incident, notify terminal supervisor, and confirm procedures were followed."
+3,2026-02-11 14:03:00,maintenance@example.com,HVAC issue on Vessel A,"We observed intermittent HVAC faults in passenger deck zones 2 and 3. Request inspection and prioritize before long weekend. Parts may be required."
+4,2026-02-12 16:20:00,customer2@example.com,Lost item on board,"I left my backpack on board yesterday. Can you confirm if it has been found and how I can retrieve it? It contains my laptop."
+5,2026-02-13 07:55:00,asset.mgmt@example.com,Weekly asset note,"Noticed higher-than-usual vibration readings on ramp system. Recommend review of sensor calibration and compare to last month's baseline."
