@@ -97,7 +97,7 @@ def generate_insights(subject: str, body: str, model: str = "gpt-4o-mini") -> Em
     """
     Uses OpenAI if OPENAI_API_KEY is present; otherwise offline fallback.
     """
-    api_key = os.getenv("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", "").strip()
+    api_key = os.getenv("", "").strip()
     if not api_key or OpenAI is None:
         return _offline_insights(subject, body)
 
