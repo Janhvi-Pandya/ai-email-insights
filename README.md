@@ -142,9 +142,6 @@ Janhvi Pandya
 Computer Science — Data Analytics  
 University of Victoria  
 
-GitHub: https://github.com/YOUR-USERNAME  
-LinkedIn: (add link)
-
 ---
 
 # Future Vision
