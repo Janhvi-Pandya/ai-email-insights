@@ -76,7 +76,7 @@ This repository reflects an **active development portfolio project** demonstrati
 
 ## 1. Clone repository
 
-git clone https://github.com/YOUR-USERNAME/ai-email-insights.git
+git clone
 cd ai-email-insights
 
 ## 2. Create Virtual Environment
